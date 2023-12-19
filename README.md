@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kishorer772
-- 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Data science Course in DataMites
-- 💞️ I’m looking to collaborate on building models and Data Viz
+- 👀 I’m interested in Full Stack Development (MERN & Java)
+- 🌱 Self Learning | Pro Active in coding and Designing Components
+- 💞️ I Love to Contribute in any Web or Full Stack Development
 - 📫 How to reach me kishoreputhalapattu@gmail.com
 
 <!---
